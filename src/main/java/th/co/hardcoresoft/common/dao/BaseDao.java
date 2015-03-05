@@ -1,4 +1,4 @@
-package com.hardcoresoft.common.dao;
+package th.co.hardcoresoft.common.dao;
 
 import java.io.Serializable;
 import java.util.List;

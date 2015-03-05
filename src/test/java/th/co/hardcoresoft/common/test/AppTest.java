@@ -1,4 +1,4 @@
-package com.hardcoresoft.common.test;
+package th.co.hardcoresoft.common.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
